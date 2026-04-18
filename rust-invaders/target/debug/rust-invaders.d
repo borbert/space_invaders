@@ -1,0 +1,1 @@
+/home/bob/dev/space_invaders/rust-invaders/target/debug/rust-invaders: /home/bob/dev/space_invaders/rust-invaders/src/collision.rs /home/bob/dev/space_invaders/rust-invaders/src/config.rs /home/bob/dev/space_invaders/rust-invaders/src/entities.rs /home/bob/dev/space_invaders/rust-invaders/src/main.rs /home/bob/dev/space_invaders/rust-invaders/src/state.rs

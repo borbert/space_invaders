@@ -1,0 +1,7 @@
+/home/bob/dev/space_invaders/rust-invaders/target/debug/build/raylib-sys-3333f7395833af2f/out/lib/libraylib.a
+/home/bob/dev/space_invaders/rust-invaders/target/debug/build/raylib-sys-3333f7395833af2f/out/include/raylib.h
+/home/bob/dev/space_invaders/rust-invaders/target/debug/build/raylib-sys-3333f7395833af2f/out/include/rlgl.h
+/home/bob/dev/space_invaders/rust-invaders/target/debug/build/raylib-sys-3333f7395833af2f/out/include/raymath.h
+/home/bob/dev/space_invaders/rust-invaders/target/debug/build/raylib-sys-3333f7395833af2f/out/lib/pkgconfig/raylib.pc
+/home/bob/dev/space_invaders/rust-invaders/target/debug/build/raylib-sys-3333f7395833af2f/out/lib/cmake/raylib/raylib-config-version.cmake
+/home/bob/dev/space_invaders/rust-invaders/target/debug/build/raylib-sys-3333f7395833af2f/out/lib/cmake/raylib/raylib-config.cmake

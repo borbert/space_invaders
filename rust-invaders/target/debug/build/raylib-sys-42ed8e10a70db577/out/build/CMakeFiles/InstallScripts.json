@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/bob/dev/space_invaders/rust-invaders/target/debug/build/raylib-sys-42ed8e10a70db577/out/build/cmake_install.cmake",
+		"/home/bob/dev/space_invaders/rust-invaders/target/debug/build/raylib-sys-42ed8e10a70db577/out/build/raylib/cmake_install.cmake",
+		"/home/bob/dev/space_invaders/rust-invaders/target/debug/build/raylib-sys-42ed8e10a70db577/out/build/raylib/external/glfw/cmake_install.cmake",
+		"/home/bob/dev/space_invaders/rust-invaders/target/debug/build/raylib-sys-42ed8e10a70db577/out/build/raylib/external/glfw/src/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
