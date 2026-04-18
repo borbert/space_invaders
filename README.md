@@ -6,7 +6,7 @@ This is a learning project. The goal wasn't to ship a game; it was to feel the e
 
 ## Why three languages?
 
-I've been working through the modern systems-language landscape — this repo is the "put up or shut up" exercise for each. Writing the same game three times forces you past hello-world and into the real tradeoffs: how you structure state, where allocations happen, how errors propagate, how the build system feels when you actually depend on something.
+I've been working through some modern systems-language landscape — this repo targets Go, Rust, and Zig specifically. Writing the same game three times forces you past hello-world and into the real tradeoffs: how you structure state, where allocations happen, how errors propagate, how the build system feels when you actually depend on something.
 
 Prior comparison work: I did the [1 Billion Row Challenge](https://medium.com/@borbert) in the same three languages. This is the game-dev companion piece.
 
